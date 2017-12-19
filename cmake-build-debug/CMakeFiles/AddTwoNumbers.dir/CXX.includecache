@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/soumya/CLionProjects/LeetCode/AddTwoNumbers.h
+iostream
+-
+
+/home/soumya/CLionProjects/LeetCode/MedianofSortedArrays.h
+vector
+-
+iostream
+-
+
+/home/soumya/CLionProjects/LeetCode/TrapWater.cpp
+stack
+-
+tuple
+-
+TrapWater.h
+/home/soumya/CLionProjects/LeetCode/TrapWater.h
+
+/home/soumya/CLionProjects/LeetCode/TrapWater.h
+vector
+-
+
+/home/soumya/CLionProjects/LeetCode/main.cpp
+AddTwoNumbers.h
+/home/soumya/CLionProjects/LeetCode/AddTwoNumbers.h
+MedianofSortedArrays.h
+/home/soumya/CLionProjects/LeetCode/MedianofSortedArrays.h
+TrapWater.h
+/home/soumya/CLionProjects/LeetCode/TrapWater.h
+

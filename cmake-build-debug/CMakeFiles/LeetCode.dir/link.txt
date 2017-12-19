@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LeetCode.dir/ValidNumber.cpp.o CMakeFiles/LeetCode.dir/main.cpp.o CMakeFiles/LeetCode.dir/TrapWater.cpp.o  -o LeetCode 
